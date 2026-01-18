@@ -1,0 +1,97 @@
+﻿№;improvement_id;spatial_unit_id;market_observation_id;improvement_type_code;building_role;total_area_m2;living_area_m2;floors;rooms;year_built;period_built_text;year_built_source;building_material;condition_code;fit_out_quality_code;legal_status_code;data_source;data_qc_status
+1;1 000 000 015;22312829690;1000000001;country (garden house);secondary;;;2;;;1971-1979;stylistic estimation (expert);brick;satisfactory;needs repair;unknown;listing;needs_review
+4;1 000 000 018;52605358650;1000000004;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);mixed;to_demolish;needs repair;unknown;listing;needs_review
+7;1 000 000 021;4756682720;1000000007;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+9;1 000 000 023;45138280890;1000000009;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);wood;poor;needs repair;unknown;listing;needs_review
+10;1 000 000 024;48288354540;1000000010;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+12;1 000 000 026;94438380200;1000000012;country (garden house);secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+13;1 000 000 027;89514713620;1000000013;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+14;1 000 000 028;12701406460;1000000014;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+15;1 000 000 029;94809891510;1000000015;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+17;1 000 000 031;52790458040;1000000017;country (garden house);secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+20;1 000 000 034;52358406910;1000000020;country (garden house);secondary;30,00;;2;2;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+23;1 000 000 037;5169682730;1000000023;country (garden house);secondary;;;2;;;1971-1979;stylistic estimation (expert);mixed;poor;needs repair;unknown;listing;needs_review
+24;1 000 000 038;16035931690;1000000024;utility;secondary;1 078,00;;1;;;1971-1979;stylistic estimation (expert);mixed;satisfactory;satisfactory;registered;listing;needs_review
+28;1 000 000 042;38086331510;1000000028;residential;secondary;;;2;;;development since 2011;stylistic estimation (expert);mixed;unknown;unknown;unregistered;listing;needs_review
+30;1 000 000 044;23571673330;1000000030;residential;secondary;;;;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+32;1 000 000 046;30218788070;1000000032;residential;secondary;;;;;;1971-1979;stylistic estimation (expert);brick;to_demolish;needs repair;unknown;listing;needs_review
+35;1 000 000 049;14661589090;1000000035;residential;secondary;61,10;;;;;1971-1979;stylistic estimation (expert);brick;to_demolish;needs repair;unknown;listing;needs_review
+37;1 000 000 051;5294941570;1000000037;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+39;1 000 000 053;10904615010;1000000039;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;to_demolish;needs repair;unknown;listing;needs_review
+41;1 000 000 055;62948220890;1000000041;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;satisfactory;satisfactory;unknown;listing;needs_review
+42;1 000 000 056;60383039370;1000000042;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+44;1 000 000 058;57847339870;1000000044;country (garden house);secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;satisfactory;satisfactory;unknown;listing;needs_review
+46;1 000 000 060;49007488360;1000000046;country (garden house);secondary;;;2;;;1971-1979;stylistic estimation (expert);mixed;satisfactory;satisfactory;unknown;listing;needs_review
+47;1 000 000 061;59683019820;1000000047;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+48;1 000 000 062;67491584490;1000000048;country (garden house);secondary;;;2;;;1971-1979;stylistic estimation (expert);mixed;poor;needs repair;unknown;listing;needs_review
+49;1 000 000 063;21813957890;1000000049;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;needs_review
+50;1 000 000 064;21595844610;1000000050;country (garden house);secondary;;;2;;;1971-1979;stylistic estimation (expert);mixed;poor;needs repair;unknown;listing;needs_review
+54;1 000 000 068;12532079660;1000000054;residential;secondary;70,00;;1;;;1971-1979;stylistic estimation (expert);unknown;poor;needs repair;registered;listing;needs_review
+56;1 000 000 070;85314181390;1000000056;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);unknown;poor;needs repair;unknown;listing;needs_review
+57;1 000 000 071;11209127260;1000000057;country (garden house);secondary;;;1;;;1971-1979;stylistic estimation (expert);unknown;poor;needs repair;unknown;listing;needs_review
+58;1 000 000 072;57429303290;1000000058;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);unknown;poor;needs repair;unknown;listing;needs_review
+59;1 000 000 073;86209084730;1000000059;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);unknown;to_demolish;needs repair;unregistered;listing;needs_review
+60;1 000 000 074;11412162960;1000000060;residential;secondary;65,00;;1;;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;unknown;listing;needs_review
+61;1 000 000 075;80233765650;1000000061;utility;secondary;;;;;;1971-1979;stylistic estimation (expert);unknown;unknown;unknown;registered;listing;needs_review
+62;1 000 000 076;35216407820;1000000062;utility;secondary;500,00;;2;;;1971-1979;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;needs_review
+63;1 000 000 077;14733527270;1000000063;residential;secondary;;;2;;;1971-1979;stylistic estimation (expert);brick;satisfactory;needs repair;registered;listing;needs_review
+74;1 000 000 088;10060451840;1000000074;country (garden house);secondary;62,00;;1;;;1971-1979;stylistic estimation (expert);unknown;poor;needs repair;unknown;listing;needs_review
+75;1 000 000 089;93326235880;1000000075;residential;primary;70,00;;2;;;1971-1979;stylistic estimation (expert);brick;good;satisfactory;registered;listing;needs_review
+76;1 000 000 090;1703312590;1000000076;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;to_demolish;needs repair;unknown;listing;needs_review
+77;1 000 000 091;2861996420;1000000077;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);brick;to_demolish;needs repair;unknown;listing;needs_review
+84;1 000 000 098;50837248410;1000000084;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);unknown;to_demolish;needs repair;unknown;listing;needs_review
+86;1 000 000 100;95691440120;1000000086;warehouse;secondary;;;1;;;1971-1979;stylistic estimation (expert);unknown;poor;satisfactory;unknown;listing;needs_review
+91;1 000 000 105;93572382510;1000000091;residential;secondary;135,00;;2;;;1971-1979;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;needs_review
+93;1 000 000 107;89016595580;1000000093;residential;primary;80,00;;2;;;1980-1990;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;needs_review
+96;1 000 000 110;48585035260;1000000096;residential;secondary;;;1;;;1971-1979;stylistic estimation (expert);wood;poor;needs repair;registered;listing;needs_review
+97;1 000 000 111;57200246450;1000000097;warehouse;secondary;1 005,70;;1;;;1980-1990;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;needs_review
+98;1 000 000 112;93583296710;1000000098;residential;secondary;;;1;;;1956-1970;stylistic estimation (expert);wood;to_demolish;needs repair;registered;listing;needs_review
+99;1 000 000 113;53319656090;1000000099;residential;secondary;170,00;;2;5;;1971-1979;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;needs_review
+100;1 000 000 114;66688433510;1000000100;residential;secondary;115,00;57,20;1;;;1956-1970;stylistic estimation (expert);brick;to_demolish;needs repair;registered;listing;ok
+104;1 000 000 118;92021177240;1000000104;residential;secondary;80,00;;1;;;1956-1970;stylistic estimation (expert);brick;poor;needs repair;registered;listing;needs_review
+108;1 000 000 122;48243131810;1000000108;residential;secondary;;;1;;;1956-1970;stylistic estimation (expert);brick;poor;needs repair;registered;listing;needs_review
+109;1 000 000 123;41055838760;1000000109;residential;primary;222,00;140,00;2;6;;2001-2010;stylistic estimation (expert);brick;good;good;registered;listing;ok
+110;1 000 000 124;72799753340;1000000110;residential;primary;512,00;125,00;3;4;;1991-2000;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;ok
+111;1 000 000 125;69875405750;1000000111;residential;primary;440,00;;3;4;;2001-2010;ad text;brick;satisfactory;good;registered;listing;needs_review
+112;1 000 000 126;49970114870;1000000112;residential;primary;93,00;;1;4;;1980-1990;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;needs_review
+113;1 000 000 127;95661858450;1000000113;residential;primary;186,00;;2;5;;1980-1990;stylistic estimation (expert);brick;satisfactory;good;registered;listing;needs_review
+114;1 000 000 128;17659327790;1000000114;residential;primary;207,00;128,00;2;4;;2001-2010;stylistic estimation (expert);brick;good;good;registered;listing;ok
+115;1 000 000 129;36786082590;1000000115;residential;secondary;74,00;50,00;1;4;;1971-1979;stylistic estimation (expert);brick;poor;needs repair;registered;listing;ok
+116;1 000 000 130;66854508870;1000000116;residential;primary;121,00;62,80;2;5;;1980-1990;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;ok
+117;1 000 000 131;73169699980;1000000117;residential;secondary;69,10;42,10;1;4;;1980-1990;ad text;wood;poor;needs repair;registered;listing;ok
+118;1 000 000 132;73908932800;1000000118;residential;primary;146,70;64,30;2;4;;development since 2011;ad text;aerated_concrete;good;good;registered;listing;ok
+119;1 000 000 133;77462459080;1000000119;residential;primary;150,00;100,00;1;3;;development since 2011;ad text;aerated_concrete;new;good;registered;listing;ok
+120;1 000 000 134;18575876880;1000000120;residential;primary;139,00;80,00;2;4;;development since 2011;ad text;aerated_concrete;new;good;registered;listing;ok
+121;1 000 000 135;56929909150;1000000121;residential;primary;140,00;80,00;2;5;;development since 2011;ad text;aerated_concrete;new;good;registered;listing;ok
+122;1 000 000 136;59143776480;1000000122;residential;primary;175,00;70,00;2;5;;development since 2011;ad text;aerated_concrete;new;no decoration;registered;listing;ok
+123;1 000 000 137;93486474820;1000000123;residential;primary;363,00;108,00;2;7;;development since 2011;ad text;aerated_concrete;new;no decoration;registered;listing;ok
+124;1 000 000 138;56451680710;1000000124;residential;primary;378,57;158,50;1;5;;development since 2011;ad text;aerated_concrete;new;no decoration;registered;listing;ok
+125;1 000 000 139;74823979140;1000000125;residential;primary;267,00;84,00;3;6;;development since 2011;ad text;aerated_concrete;satisfactory;good;registered;listing;ok
+126;1 000 000 140;86055009060;1000000126;residential;primary;172,80;87,30;2;4;;development since 2011;stylistic estimation (expert);aerated_concrete;satisfactory;satisfactory;registered;listing;ok
+127;1 000 000 141;24752346940;1000000127;residential;primary;270,70;85,30;3;4;;development since 2011;ad text;brick;satisfactory;satisfactory;registered;listing;ok
+128;1 000 000 142;92421620040;1000000128;residential;primary;109,20;49,40;2;2;;1980-1990;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;ok
+129;1 000 000 143;42758571570;1000000129;residential;primary;109,00;47,30;2;3;;development since 2011;ad text;brick;new;good;registered;listing;ok
+130;1 000 000 144;61018588660;1000000130;residential;primary;131,40;68,40;2;5;;2001-2010;ad text;brick;satisfactory;satisfactory;registered;listing;ok
+131;1 000 000 145;69711047830;1000000131;residential;primary;319,10;121,10;3;6;;2001-2010;ad text;brick;satisfactory;satisfactory;registered;listing;ok
+132;1 000 000 146;51759119360;1000000132;residential;primary;113,00;58,70;2;3;;2001-2010;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;ok
+133;1 000 000 147;39951807370;1000000133;residential;primary;170,20;73,20;2;4;;development since 2011;ad text;brick;satisfactory;satisfactory;registered;listing;ok
+134;1 000 000 148;36954351810;1000000134;residential;primary;400,00;;1;6;;development since 2011;ad text;brick;satisfactory;satisfactory;registered;listing;needs_review
+135;1 000 000 149;10720387690;1000000135;residential;primary;200,00;120,00;2;4;;1980-1990;stylistic estimation (expert);brick;satisfactory;good;registered;listing;ok
+136;1 000 000 150;78701855830;1000000136;residential;primary;123,50;67,00;2;4;;1980-1990;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;ok
+137;1 000 000 151;39330758750;1000000137;residential;primary;77,00;49,70;1;3;;1971-1979;stylistic estimation (expert);brick;poor;satisfactory;registered;listing;ok
+138;1 000 000 152;26301638480;1000000138;residential;primary;49,50;15,00;1;1;;1991-2000;ad text;brick;satisfactory;needs repair;registered;listing;ok
+139;1 000 000 153;99363369450;1000000139;residential;primary;70,00;30,00;2;5;;1980-1990;ad text;brick;satisfactory;satisfactory;registered;listing;ok
+140;1 000 000 154;537285640;1000000140;residential;primary;145,40;87,80;2;6;;1956-1970;ad text;brick;satisfactory;needs repair;registered;listing;ok
+141;1 000 000 155;71614460150;1000000141;residential;primary;481,90;66,10;3;4;2017;development since 2011;ad text;brick;good;good;registered;listing;ok
+142;1 000 000 156;41462245620;1000000142;residential;primary;536,50;209,30;3;8;;development since 2011;ad text;brick;good;luxury renovation;registered;listing;ok
+143;1 000 000 157;28189055550;1000000143;residential;primary;210,00;;2;7;2003;2001-2010;ad text;brick;satisfactory;satisfactory;registered;listing;needs_review
+144;1 000 000 158;6859565070;1000000144;residential;primary;108,70;52,20;1;2;;2001-2010;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;ok
+145;1 000 000 159;63111876290;1000000145;residential;primary;425,10;87,30;4;4;;development since 2011;ad text;brick;good;luxury renovation;registered;listing;ok
+146;1 000 000 160;78625684780;1000000146;residential;primary;1 399,70;357,40;3;9;2020;development since 2011;ad text;brick;new;luxury renovation;registered;listing;ok
+147;1 000 000 161;20589811670;1000000147;residential;primary;600,00;;3;7;;development since 2011;ad text;brick;good;satisfactory;registered;listing;needs_review
+148;1 000 000 162;67394206080;1000000148;residential;primary;750,00;200,00;3;6;2023;development since 2011;ad text;brick;good;luxury renovation;registered;listing;ok
+149;1 000 000 163;51028835410;1000000149;residential;primary;240,00;130,00;3;5;2022;development since 2011;ad text;brick;good;good;registered;listing;ok
+150;1 000 000 164;8338478790;1000000150;residential;primary;640,70;154,60;3;5;2011;development since 2011;ad text;brick;good;satisfactory;registered;listing;ok
+151;1 000 000 165;64205686250;1000000151;residential;primary;450,00;;3;6;;development since 2011;ad text;brick;good;good;registered;listing;needs_review
+152;1 000 000 166;51185347300;1000000152;residential;primary;150,00;80,00;1;5;;1991-2000;stylistic estimation (expert);brick;satisfactory;satisfactory;registered;listing;ok
+153;1 000 000 167;55348892350;1000000153;residential;secondary;39,40;25,60;1;3;;1956-1970;stylistic estimation (expert);wood;poor;needs repair;registered;listing;ok
